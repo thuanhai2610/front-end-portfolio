@@ -128,7 +128,7 @@ export default function Portfolio() {
               Contact Me
             </button>
           </div>
-          <p className="text-sm text-gray-500 animate-fadeInUp" style={{animationDelay: '2s'}}>Let's build something amazing together.</p>
+          <p className="text-sm text-gray-500 animate-fadeInUp" style={{animationDelay: '2s'}}>Let&apos;s build something amazing together.</p>
         </div>
       </div>
 
@@ -311,7 +311,7 @@ export default function Portfolio() {
               <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 border border-white/20">
                 <div className="grid lg:grid-cols-3 gap-8 items-center">
                   <div>
-                    <h3 className="text-2xl font-bold text-white mb-4">Let's Work Together</h3>
+                    <h3 className="text-2xl font-bold text-white mb-4">Let&apos;s Work Together</h3>
                     <p className="text-gray-300">Based in Quảng Ngãi, Vietnam. Available for freelance and full-time opportunities worldwide.</p>
                   </div>
                   <div className="grid grid-cols-2 gap-4">
@@ -459,7 +459,7 @@ export default function Portfolio() {
                     <div className="text-sm text-gray-400">CEO, TechStart</div>
                   </div>
                 </div>
-                <p className="text-gray-300 text-sm">"Thuan Hai delivered an exceptional e-commerce platform that exceeded our expectations. His attention to detail and technical expertise is outstanding."</p>
+                <p className="text-gray-300 text-sm">&quotThuan Hai delivered an exceptional e-commerce platform that exceeded our expectations. His attention to detail and technical expertise is outstanding.&quot</p>
                 <div className="flex text-yellow-400 mt-3"><span>★★★★★</span></div>
               </div>
               <div className="bg-gray-900/50 backdrop-blur-sm rounded-xl p-6 border border-gray-800">
@@ -470,7 +470,7 @@ export default function Portfolio() {
                     <div className="text-sm text-gray-400">Founder, DigitalFlow</div>
                   </div>
                 </div>
-                <p className="text-gray-300 text-sm">"Working with Thuan Hai was a pleasure. He transformed our ideas into a beautiful, functional application with clean code and great performance."</p>
+                <p className="text-gray-300 text-sm">&quotWorking with Thuan Hai was a pleasure. He transformed our ideas into a beautiful, functional application with clean code and great performance.&quot</p>
                 <div className="flex text-yellow-400 mt-3"><span>★★★★★</span></div>
               </div>
               <div className="bg-gray-900/50 backdrop-blur-sm rounded-xl p-6 border border-gray-800">
@@ -481,7 +481,7 @@ export default function Portfolio() {
                     <div className="text-sm text-gray-400">CTO, InnovateLab</div>
                   </div>
                 </div>
-                <p className="text-gray-300 text-sm">"Impressive technical skills and professional communication. Thuan Hai consistently delivers high-quality solutions on time and within budget."</p>
+                <p className="text-gray-300 text-sm">&quotImpressive technical skills and professional communication. Thuan Hai consistently delivers high-quality solutions on time and within budget.&quot</p>
                 <div className="flex text-yellow-400 mt-3"><span>★★★★★</span></div>
               </div>
             </div>
@@ -529,7 +529,7 @@ export default function Portfolio() {
           </div>
           <div className="text-center bg-gradient-to-r from-gray-900 to-black rounded-2xl p-12 border border-gray-800">
             <h2 className="text-3xl font-bold text-white mb-4">Ready to Start Your Project?</h2>
-            <p className="text-gray-400 mb-8 max-w-2xl mx-auto">Let's discuss your ideas and turn them into reality. I'm always excited to work on new challenges and create innovative solutions.</p>
+            <p className="text-gray-400 mb-8 max-w-2xl mx-auto">Let&aposs discuss your ideas and turn them into reality. I&aposm always excited to work on new challenges and create innovative solutions.</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="px-8 py-4 bg-gradient-to-r from-yellow-400 to-orange-400 text-black font-semibold rounded-xl hover:from-yellow-500 hover:to-orange-500 transition-all duration-200 transform hover:scale-105">
                 Start a Project
