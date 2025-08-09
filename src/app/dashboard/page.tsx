@@ -529,7 +529,7 @@ export default function Portfolio() {
           </div>
           <div className="text-center bg-gradient-to-r from-gray-900 to-black rounded-2xl p-12 border border-gray-800">
             <h2 className="text-3xl font-bold text-white mb-4">Ready to Start Your Project?</h2>
-            <p className="text-gray-400 mb-8 max-w-2xl mx-auto">Let&aposs discuss your ideas and turn them into reality. I&aposm always excited to work on new challenges and create innovative solutions.</p>
+            <p className="text-gray-400 mb-8 max-w-2xl mx-auto">Let&apos;s discuss your ideas and turn them into reality. I&apos;m always excited to work on new challenges and create innovative solutions.</p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="px-8 py-4 bg-gradient-to-r from-yellow-400 to-orange-400 text-black font-semibold rounded-xl hover:from-yellow-500 hover:to-orange-500 transition-all duration-200 transform hover:scale-105">
                 Start a Project
